@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Lambo Subtitle Edit
+GenericName=Subtitle Editor
+Comment=Edit SRT subtitles with dual video preview
+Exec=lambo-subtitle-edit %F
+Icon=lambo-subtitle-edit
+Terminal=false
+Categories=AudioVideo;Video;Editor;
+MimeType=application/x-subrip;

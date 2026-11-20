@@ -1,0 +1,5 @@
+/target/
+*.pkg.tar.zst
+/pkg/
+# Private notes/planning docs (one contains account credentials). Never publish.
+/docs/
