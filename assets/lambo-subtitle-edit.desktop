@@ -6,5 +6,5 @@ Comment=Edit SRT subtitles with dual video preview
 Exec=lambo-subtitle-edit %F
 Icon=lambo-subtitle-edit
 Terminal=false
-Categories=AudioVideo;Video;Editor;
+Categories=AudioVideo;Video;
 MimeType=application/x-subrip;
